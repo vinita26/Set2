@@ -1,0 +1,18 @@
+body{
+  width: 600px;
+  margin: 20px auto;
+  font-family: sans-serif;
+}
+h2{
+  font-size: 39px;
+  line-height: 43px;
+}
+article img{
+  float: left;
+  margin-right: 30px;
+}
+.preview{
+  float: right;
+  background: red;
+  width: 370px;
+}
